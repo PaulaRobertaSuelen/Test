@@ -1,0 +1,18 @@
+.newTaskForm {
+    display: flex;
+    flex-direction: column;
+    padding: 16px;
+    border-radius: 16px;
+    gap: 8px;
+    width: 100%;
+    background: rgba(255, 255, 255, 0.05);
+    h2 {
+      width: 100%;
+      font-weight: 500;
+      line-height: 0rem;
+      text-align: center;
+    }
+    button {
+      margin-top: 8px;
+    }
+  }

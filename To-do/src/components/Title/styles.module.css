@@ -1,0 +1,11 @@
+.title {
+  font-size: 56px;
+  width: 100%;
+  line-height: 0rem;
+  :nth-child(1) {
+    font-weight: 600;
+  }
+  :nth-child(2) {
+    font-weight: 200;
+  }
+}
